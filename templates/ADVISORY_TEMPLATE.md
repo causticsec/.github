@@ -55,7 +55,7 @@
 
 <div align="right">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/causticsec/.github/main/brand/caustic-mark-dark-128.png">
-    <img width="48" alt="Caustic" src="https://raw.githubusercontent.com/causticsec/.github/main/brand/caustic-mark-128.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/causticsec/.github/main/assets/caustic-mark-dark-128.png">
+    <img width="48" alt="Caustic" src="https://raw.githubusercontent.com/causticsec/.github/main/assets/caustic-mark-128.png">
   </picture>
 </div>

@@ -1,0 +1,13 @@
+# Code owners for the Caustic .github repository.
+# Last match wins. Solo today — replace @sys0xFF with @causticsec/<team> when a team exists.
+
+# Default owner for everything in this repo.
+*                                     @sys0xFF
+
+# Security-sensitive paths — changes here must be owner-reviewed.
+/SECURITY.md                          @sys0xFF
+/VULNERABILITY_DISCLOSURE_POLICY.md   @sys0xFF
+/pgp/                                 @sys0xFF
+/profile/                             @sys0xFF
+/templates/                           @sys0xFF
+/CODEOWNERS                           @sys0xFF
