@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/causticsec/.github/blob/main/SECURITY.md
+    about: Coordinated disclosure only. Email security@caustic.sh (PGP key available). Do not open a public issue.
+  - name: Vulnerability disclosure policy
+    url: https://github.com/causticsec/.github/blob/main/VULNERABILITY_DISCLOSURE_POLICY.md
+    about: How Caustic handles and publishes vulnerabilities (90-day coordinated disclosure).
