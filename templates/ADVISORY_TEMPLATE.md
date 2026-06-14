@@ -50,3 +50,12 @@
 - CVE: https://www.cve.org/CVERecord?id=<CVE-ID>
 - Vendor advisory: <url>
 - Patch: <commit url(s)>
+
+---
+
+<div align="right">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/causticsec/.github/main/brand/caustic-mark-dark-128.png">
+    <img width="48" alt="Caustic" src="https://raw.githubusercontent.com/causticsec/.github/main/brand/caustic-mark-128.png">
+  </picture>
+</div>
